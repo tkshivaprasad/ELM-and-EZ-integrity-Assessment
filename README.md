@@ -18,7 +18,7 @@ oct_elm_ez_segmentation/
   utils.py         image loading, augmentation, metrics
   model_utils.py   dataset, model and prediction code
   data/            put the dataset here
-  outputs/         created automatically; all results go here
+  outputs/         all results go here
 ```
 
 ## Setup in VS Code (Windows)
